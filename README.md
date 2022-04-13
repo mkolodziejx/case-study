@@ -1,7 +1,7 @@
 # case-study
 
-### Imported all necessary libraries 
-### Installed PyDrive and used google autharisation to obtain data from google drive
+1. Imported all necessary libraries 
+2. Installed PyDrive and used google autharisation to obtain data from google drive
 ### Put data into dataframe
 ### Plotted histogram for fetal health
 ### Covariance and reshaped variables to fit a regression (fetal movement/fetalhealth)
